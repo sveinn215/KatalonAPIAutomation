@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>updatePartialBookingTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c708c29f-729b-4868-a624-18074b3132fb</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>78c973d1-04e8-4374-bfbe-508b9916c1ff</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>200979fc-6209-45d0-9ab4-958c568d97ac</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f7f59717-0853-475d-abec-4e91a889adcd</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Muhammad'</defaultValue>
+      <description></description>
+      <id>78c973d1-04e8-4374-bfbe-508b9916c1ff</id>
+      <masked>false</masked>
+      <name>firstName</name>
+   </variable>
+   <variable>
+      <defaultValue>'Dinner'</defaultValue>
+      <description></description>
+      <id>200979fc-6209-45d0-9ab4-958c568d97ac</id>
+      <masked>false</masked>
+      <name>additionalNeeds</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.bookingId</defaultValue>
+      <description></description>
+      <id>f7f59717-0853-475d-abec-4e91a889adcd</id>
+      <masked>false</masked>
+      <name>bookingId</name>
+   </variable>
+</TestCaseEntity>

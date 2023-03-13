@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>getBookingByIdTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fe20f3e7-3a63-4d36-ad20-4868f1e613d2</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2744aa54-f4b3-4759-8227-c20215b2389c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.bookingId</defaultValue>
+      <description></description>
+      <id>2744aa54-f4b3-4759-8227-c20215b2389c</id>
+      <masked>false</masked>
+      <name>bookingId</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>deleteBookingTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>532f72c5-5cfa-4240-b369-8cd1366ab982</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>bcfa159e-9568-4491-997a-d818a79fb6db</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.bookingId</defaultValue>
+      <description></description>
+      <id>bcfa159e-9568-4491-997a-d818a79fb6db</id>
+      <masked>false</masked>
+      <name>bookingId</name>
+   </variable>
+</TestCaseEntity>
